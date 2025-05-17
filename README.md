@@ -6,7 +6,7 @@ O objetivo deste projeto é fazer com que o robô encontre a caixa leve em um mu
 
 No código o controlador do robô pega a posição inicial de todas as caixas, e anda pelo mundo, quando a posição de uma caixa mudar, isso significa que o robô tentou mover a caixa e ela é leve, fazendo com que o robô pare toda a sua rotina de varredura do mundo e comece a girar em torno do seu próprio eixo.
 
-Segue abaixo o robô encontrando a caixa leve:
+Segue abaixo o robô encontrando a caixa leve (Clique no video para abri-lo no youtube):
 
 [![Assista ao vídeo](https://img.youtube.com/vi/bA03d2Ea98M/hqdefault.jpg)](https://www.youtube.com/watch?v=bA03d2Ea98M)
 
