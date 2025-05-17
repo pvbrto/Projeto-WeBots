@@ -2,10 +2,10 @@
 
 ### Integrantes
 
-Gianluca Mariano Sobreiro						RA: 22.122.011-4
-Guilherme Fornagiero de Carvalho		RA: 22.122.016-3
-Paulo Vinicius Bessa de Brito			  RA: 22.122.005-6
-Pedro Augusto Bento Rocha					  RA: 22.122.028-8
+Gianluca Mariano Sobreiro		-				RA: 22.122.011-4 <br/>
+Guilherme Fornagiero de Carvalho	-	RA: 22.122.016-3 <br/>
+Paulo Vinicius Bessa de Brito		-	  RA: 22.122.005-6 <br/>
+Pedro Augusto Bento Rocha			-		  RA: 22.122.028-8 <br/>
 
 ### Objetivo
 
